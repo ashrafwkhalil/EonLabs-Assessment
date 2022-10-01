@@ -1,6 +1,6 @@
 # EonLabs-Assessment
 ## My Approach
-1. My approach was quite simple, in that I used the pytrends API to make a request from 2015 until today on hourly interest data given the keyword 'bitcoin'.
+My approach was quite simple, in that I used the pytrends API to make a request from 2015 until today on hourly interest data given the keyword 'bitcoin'.
 Given that I found that Google was quite frugal in regards to giving out bandwidth and I found myself getting rate-limited, I did only a single call to get
 hourly data, and manipulated that data locally to derive daily and weekly data. I also had to add a sleep parameter to the pytrends call that would 
 create pauses between successive Google Trends API calls to avoid rate-limiting. It seems that pytrends doesn't request all data in a single shot, and rather
