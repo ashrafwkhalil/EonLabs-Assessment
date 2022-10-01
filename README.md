@@ -25,5 +25,5 @@ unsure whether or not one file or multiple files were required, so I made a file
 a single table. 
 
 ## How to Execute
-You could execute the .py file as you could a regular script, but I would recommend opening the notebook in a google colab notebook by clicking the 'open
-in colab' button that will be available at the top of the notebook. Once there, you can just run the notebook cell by cell and observe its behavior.
+You could execute the .py file as you could a regular script, but I would recommend opening the notebook in a google colab notebook by clicking the 'Open
+in Colab' button that will be available at the top of the notebook. Once there, you can just run the notebook cell by cell and observe its behavior. Literally all you have to do is open the ipynb file here on github, and you will immediately see a 'Open in Colab' button on the top of the page.
